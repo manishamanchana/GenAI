@@ -12,8 +12,6 @@ This document outlines a roadmap for learning and working with Large Language Mo
 |                       | LangChain Chat with Your Data                                                  | LangChain Chat with Your Data |
 | GenAI Introduction    |                                                                                 | [Specialization Link](https://www.coursera.org/specializations/introduction-generative-ai) |
 
-> ℹ️ Additional rows may be added as the roadmap evolves. Make sure to include both foundational knowledge and hands-on implementation experience.
-
 ## 🛠️ Steps
 
 1. **Start with Python** — Comfortable with Python basics, as it’s essential for all LLM-related work.
